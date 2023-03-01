@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class KisAppApplication
 
 fun main(args: Array<String>) {
-	runApplication<KisAppApplication>(*args)
+    runApplication<KisAppApplication>(*args)
 }
